@@ -1,6 +1,5 @@
-import com.sun.security.jgss.GSSUtil;
+package chuong1;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Bai17 {
