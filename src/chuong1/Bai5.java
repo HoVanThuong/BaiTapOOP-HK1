@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package chuong1;
+
 import java.util.Scanner;
 
 public class Bai5 {
