@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Third Commit">
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai10/LopHocPhan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai10/MainTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai10/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai7/HangThucPham.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai7/MainTest7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai8/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai8/MainTest8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai9/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai9/MainTest9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai9/ToaDo.java" afterDir="false" />
+    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/Bai10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +43,6 @@
     &quot;accountId&quot;: &quot;0bbe73b6-1645-4003-9ace-088f18c9298e&quot;
   }
 }</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/chuong2/bai3/MainTest3.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -75,17 +71,7 @@
     "Application.Bai7.executor": "Run",
     "Application.Bai8.executor": "Run",
     "Application.Bai9.executor": "Run",
-    "Application.MainTest.executor": "Run",
-    "Application.MainTest2.executor": "Run",
-    "Application.MainTest3.executor": "Run",
-    "Application.MainTest4.executor": "Run",
-    "Application.MainTest5.executor": "Run",
-    "Application.MainTest6.executor": "Run",
-    "Application.MainTest7.executor": "Run",
-    "Application.MainTest8.executor": "Run",
-    "Application.MainTest9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -119,13 +105,7 @@
       <workItem from="1723791155913" duration="8000" />
       <workItem from="1723885282291" duration="5987000" />
       <workItem from="1723891406253" duration="71000" />
-      <workItem from="1723891677064" duration="3585000" />
-      <workItem from="1723896214292" duration="10679000" />
-      <workItem from="1723947048348" duration="14401000" />
-      <workItem from="1723973277511" duration="35000" />
-      <workItem from="1723973360422" duration="28000" />
-      <workItem from="1723973415704" duration="24000" />
-      <workItem from="1723973486324" duration="2449000" />
+      <workItem from="1723891677064" duration="1844000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -135,47 +115,7 @@
       <option name="project" value="LOCAL" />
       <updated>1723560920866</updated>
     </task>
-    <task id="LOCAL-00002" summary="Second Commit">
-      <option name="closed" value="true" />
-      <created>1723893872082</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1723893872082</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Second Commit">
-      <option name="closed" value="true" />
-      <created>1723893901026</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1723893901026</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Second Commit">
-      <option name="closed" value="true" />
-      <created>1723893941336</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1723893941336</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Third Commit">
-      <option name="closed" value="true" />
-      <created>1723907870241</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1723907870241</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Third Commit">
-      <option name="closed" value="true" />
-      <created>1723907904415</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1723907904415</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,8 +123,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <MESSAGE value="Second Commit" />
-    <MESSAGE value="Third Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
