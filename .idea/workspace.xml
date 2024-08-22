@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai11/KhachHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai11/MainTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai11/SoTietKiem.java" afterDir="false" />
+    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/Bai10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +29,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -66,8 +71,6 @@
     "Application.Bai7.executor": "Run",
     "Application.Bai8.executor": "Run",
     "Application.Bai9.executor": "Run",
-    "Application.MainTest11.executor": "Run",
-    "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -77,25 +80,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/JavaLearning/BaiTapOOp/src/Main.java",
-    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai3.Test" />
-      <module name="BaiTapOOp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bai3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -119,16 +106,6 @@
       <workItem from="1723885282291" duration="5987000" />
       <workItem from="1723891406253" duration="71000" />
       <workItem from="1723891677064" duration="1844000" />
-      <workItem from="1724067251624" duration="637000" />
-      <workItem from="1724197560838" duration="37000" />
-      <workItem from="1724198268326" duration="41000" />
-      <workItem from="1724204811136" duration="441000" />
-      <workItem from="1724222842521" duration="622000" />
-      <workItem from="1724336968879" duration="2502000" />
-      <workItem from="1724339718529" duration="18000" />
-      <workItem from="1724339752655" duration="256000" />
-      <workItem from="1724340026652" duration="1617000" />
-      <workItem from="1724341686564" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -138,45 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723560920866</updated>
     </task>
-    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1723976489701</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1723976489701</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="false" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <MESSAGE value="Fourth Commit" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
