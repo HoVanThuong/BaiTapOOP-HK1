@@ -49,6 +49,10 @@ public class CDList {
         {
             return false;
         }
+        if (this.count == this.cdList.length)
+        {
+            return false;
+        }
         this.cdList[this.count++] = cd;
         return true;
     }

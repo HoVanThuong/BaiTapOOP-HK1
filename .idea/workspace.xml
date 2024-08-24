@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Bai11">
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai12/CD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai12/CDList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai12/MainTest12.java" afterDir="false" />
+    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Bai12">
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai13/CongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai13/DanhSachCongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai13/MainTest13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuong2/bai12/CDList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuong2/bai12/CDList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Application.Bai9.executor": "Run",
     "Application.MainTest11.executor": "Run",
     "Application.MainTest12.executor": "Run",
+    "Application.MainTest13.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -106,7 +108,7 @@
       <workItem from="1724482074562" duration="93000" />
       <workItem from="1724482174591" duration="635000" />
       <workItem from="1724482842949" duration="62000" />
-      <workItem from="1724482917482" duration="2049000" />
+      <workItem from="1724482917482" duration="6073000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -124,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724342300338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bai12">
+      <option name="closed" value="true" />
+      <created>1724485315558</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724485315558</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +144,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Bai11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bai11" />
+    <MESSAGE value="Bai12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bai12" />
   </component>
 </project>
