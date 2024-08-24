@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Bai10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai9.java" afterDir="false" />
+    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Bai11">
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai12/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai12/CDList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai12/MainTest12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +65,8 @@
     "Application.Bai7.executor": "Run",
     "Application.Bai8.executor": "Run",
     "Application.Bai9.executor": "Run",
+    "Application.MainTest11.executor": "Run",
+    "Application.MainTest12.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -106,6 +102,11 @@
       <workItem from="1723885282291" duration="5987000" />
       <workItem from="1723891406253" duration="71000" />
       <workItem from="1723891677064" duration="1844000" />
+      <workItem from="1724480206027" duration="1792000" />
+      <workItem from="1724482074562" duration="93000" />
+      <workItem from="1724482174591" duration="635000" />
+      <workItem from="1724482842949" duration="62000" />
+      <workItem from="1724482917482" duration="2049000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -115,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723560920866</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bai11">
+      <option name="closed" value="true" />
+      <created>1724342300338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724342300338</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Bai11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bai11" />
   </component>
 </project>
