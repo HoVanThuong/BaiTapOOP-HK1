@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Bai12">
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai13/CongNhan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai13/DanhSachCongNhan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai13/MainTest13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/MainTest14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chuong2/bai12/CDList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuong2/bai12/CDList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,7 @@
     "Application.MainTest11.executor": "Run",
     "Application.MainTest12.executor": "Run",
     "Application.MainTest13.executor": "Run",
+    "Application.MainTest14.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -78,6 +79,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/JavaLearning/BaiTapOOp/src/Main.java",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -108,7 +110,8 @@
       <workItem from="1724482074562" duration="93000" />
       <workItem from="1724482174591" duration="635000" />
       <workItem from="1724482842949" duration="62000" />
-      <workItem from="1724482917482" duration="6073000" />
+      <workItem from="1724482917482" duration="7086000" />
+      <workItem from="1724768929008" duration="6080000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -134,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724485315558</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bai12">
+      <option name="closed" value="true" />
+      <created>1724489397216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724489397216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Bai12">
+      <option name="closed" value="true" />
+      <created>1724489407847</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724489407847</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +163,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Bai11" />
+    <MESSAGE value="Bai13" />
     <MESSAGE value="Bai12" />
     <option name="LAST_COMMIT_MESSAGE" value="Bai12" />
   </component>
