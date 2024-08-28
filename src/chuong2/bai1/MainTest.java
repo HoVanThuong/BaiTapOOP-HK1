@@ -8,7 +8,7 @@ public class MainTest {
         // Ham getThongTin tra ve thong tin theo dinh dang cua mik
         System.out.println(a.getThongTin());
         // toString tra ve ket qua dai dien cho doi tuong do
-        System.out.println(a.toString());
+        //System.out.println(a.toString());
 
     }
 }

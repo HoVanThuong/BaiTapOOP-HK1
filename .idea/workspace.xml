@@ -4,12 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Bai12">
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/MainTest14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/OrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/Product.java" afterDir="false" />
+    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Bai14">
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/ChuyenXe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/ChuyenXeNgoaiThanh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/ChuyenXeNoiThanh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/LopKiemNghiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/NhaXe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/LopKiemNghiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/Sach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/SachGiaoKhoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/SachThamKhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/ThuVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/TinhTrang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/GiaoDich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/GiaoDichTienTe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/GiaoDichVang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/LopKiemNghiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/NganHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testenum/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testenum/Thang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuong2/bai1/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuong2/bai1/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -66,10 +82,14 @@
     "Application.Bai7.executor": "Run",
     "Application.Bai8.executor": "Run",
     "Application.Bai9.executor": "Run",
+    "Application.LopKiemNghiem.executor": "Run",
+    "Application.MainTest.executor": "Run",
     "Application.MainTest11.executor": "Run",
     "Application.MainTest12.executor": "Run",
     "Application.MainTest13.executor": "Run",
     "Application.MainTest14.executor": "Run",
+    "Application.MainTest15.executor": "Run",
+    "Application.MainTest16.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -79,7 +99,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/JavaLearning/BaiTapOOp/src/Main.java",
-    "settings.editor.selected.configurable": "fileTemplates",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -111,7 +131,20 @@
       <workItem from="1724482174591" duration="635000" />
       <workItem from="1724482842949" duration="62000" />
       <workItem from="1724482917482" duration="7086000" />
-      <workItem from="1724768929008" duration="6080000" />
+      <workItem from="1724768929008" duration="6448000" />
+      <workItem from="1724802275843" duration="19000" />
+      <workItem from="1724808852135" duration="92000" />
+      <workItem from="1724855521910" duration="6040000" />
+      <workItem from="1725407051989" duration="969000" />
+      <workItem from="1725983072981" duration="41000" />
+      <workItem from="1725983169670" duration="188000" />
+      <workItem from="1726011668363" duration="690000" />
+      <workItem from="1726584842096" duration="1117000" />
+      <workItem from="1726616538148" duration="18000" />
+      <workItem from="1726645665172" duration="1489000" />
+      <workItem from="1726727972032" duration="596000" />
+      <workItem from="1726891143700" duration="12000" />
+      <workItem from="1726903715423" duration="11630000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -153,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724489407847</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Bai14">
+      <option name="closed" value="true" />
+      <created>1724775346327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724775346327</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +206,7 @@
     <MESSAGE value="Bai11" />
     <MESSAGE value="Bai13" />
     <MESSAGE value="Bai12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bai12" />
+    <MESSAGE value="Bai14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bai14" />
   </component>
 </project>
