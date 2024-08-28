@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Bai12">
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/MainTest14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/OrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong2/bai14/Product.java" afterDir="false" />
+    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Bai14">
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai15/DiemHocVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai15/DiemHocVienList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai15/DiemMonHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai15/MainTest15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai16/DanhSachKhoaHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai16/HocVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai16/KhoaHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chuong2/bai16/MainTest16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +74,8 @@
     "Application.MainTest12.executor": "Run",
     "Application.MainTest13.executor": "Run",
     "Application.MainTest14.executor": "Run",
+    "Application.MainTest15.executor": "Run",
+    "Application.MainTest16.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -111,7 +117,10 @@
       <workItem from="1724482174591" duration="635000" />
       <workItem from="1724482842949" duration="62000" />
       <workItem from="1724482917482" duration="7086000" />
-      <workItem from="1724768929008" duration="6080000" />
+      <workItem from="1724768929008" duration="6448000" />
+      <workItem from="1724802275843" duration="19000" />
+      <workItem from="1724808852135" duration="92000" />
+      <workItem from="1724855521910" duration="6040000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -153,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724489407847</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Bai14">
+      <option name="closed" value="true" />
+      <created>1724775346327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724775346327</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +182,7 @@
     <MESSAGE value="Bai11" />
     <MESSAGE value="Bai13" />
     <MESSAGE value="Bai12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bai12" />
+    <MESSAGE value="Bai14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bai14" />
   </component>
 </project>
