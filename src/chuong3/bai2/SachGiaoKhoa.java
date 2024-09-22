@@ -20,6 +20,11 @@ import java.time.format.DateTimeFormatter;
 public class SachGiaoKhoa extends Sach{
     private TinhTrang tinhTrang;
 
+
+    public SachGiaoKhoa() {
+        this("MaXXX",LocalDate.now(),0,0,"KhongBiet",TinhTrang.Moi);
+    }
+
     public SachGiaoKhoa(String maSach, LocalDate ngayNhap, double donGia, int soLuong, String nxb, TinhTrang tinhTrang) {
         super(maSach, ngayNhap, donGia, soLuong, nxb);
         this.tinhTrang = tinhTrang;

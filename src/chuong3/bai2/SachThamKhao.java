@@ -19,6 +19,11 @@ import java.time.LocalDate;
 public class SachThamKhao extends Sach{
     private double thue;
 
+
+    public SachThamKhao() {
+        this("MaXXX",LocalDate.now(),0,0,"KhongBiet",0);
+    }
+
     public SachThamKhao(String maSach, LocalDate ngayNhap, double donGia, int soLuong, String nxb, double thue) {
         super(maSach, ngayNhap, donGia, soLuong, nxb);
         this.thue = thue;

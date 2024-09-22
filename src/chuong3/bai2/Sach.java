@@ -54,11 +54,16 @@ public abstract class Sach {
         return ngayNhap;
     }
 
-    public void setNgayNhap(LocalDate ngayNhap) {
-        if (ngayNhap.isAfter(LocalDate.now())) {
-            throw   new IllegalArgumentException("Ngay nhap sai bet");
+    public void setNgayNhap(String ngayNhap) {
+        if(ngayNhap == null) {
+            throw new IllegalArgumentException("Ngay nhap khong hop le");
         }
-        this.ngayNhap = ngayNhap;
+        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+        LocalDate ngay = LocalDate.parse(ngayNhap, dtf);
+        if(ngay.isAfter(LocalDate.now())) {
+            throw new IllegalArgumentException("Ngay nhap khong hop le");
+        }
+        this.ngayNhap = ngay;
     }
 
     public double getDonGia() {

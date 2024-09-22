@@ -4,27 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="Bai14">
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/ChuyenXe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/ChuyenXeNgoaiThanh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/ChuyenXeNoiThanh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/LopKiemNghiem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai1/NhaXe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/LopKiemNghiem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/Sach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/SachGiaoKhoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/SachThamKhao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/ThuVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai2/TinhTrang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/GiaoDich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/GiaoDichTienTe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/GiaoDichVang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/LopKiemNghiem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chuong3/bai3/NganHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testenum/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testenum/Thang.java" afterDir="false" />
+    <list default="true" id="518abbd8-a560-45b5-84dd-191fcc0f7304" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chuong2/bai1/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuong2/bai1/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuong3/bai2/LopKiemNghiem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuong3/bai2/LopKiemNghiem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuong3/bai2/Sach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuong3/bai2/Sach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuong3/bai2/SachGiaoKhoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuong3/bai2/SachGiaoKhoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuong3/bai2/SachThamKhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuong3/bai2/SachThamKhao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuong3/bai2/TinhTrang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chuong3/bai2/TinhTrang.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,44 +51,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Bai10.executor": "Run",
-    "Application.Bai11.executor": "Run",
-    "Application.Bai12.executor": "Run",
-    "Application.Bai13.executor": "Run",
-    "Application.Bai14.executor": "Run",
-    "Application.Bai15.executor": "Run",
-    "Application.Bai16.executor": "Run",
-    "Application.Bai17.executor": "Run",
-    "Application.Bai3.executor": "Run",
-    "Application.Bai4.executor": "Run",
-    "Application.Bai5.executor": "Run",
-    "Application.Bai6.executor": "Run",
-    "Application.Bai7.executor": "Run",
-    "Application.Bai8.executor": "Run",
-    "Application.Bai9.executor": "Run",
-    "Application.LopKiemNghiem.executor": "Run",
-    "Application.MainTest.executor": "Run",
-    "Application.MainTest11.executor": "Run",
-    "Application.MainTest12.executor": "Run",
-    "Application.MainTest13.executor": "Run",
-    "Application.MainTest14.executor": "Run",
-    "Application.MainTest15.executor": "Run",
-    "Application.MainTest16.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/JavaLearning/BaiTapOOp/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Bai10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LopKiemNghiem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest16.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/JavaLearning/BaiTapOOp/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -144,7 +130,8 @@
       <workItem from="1726645665172" duration="1489000" />
       <workItem from="1726727972032" duration="596000" />
       <workItem from="1726891143700" duration="12000" />
-      <workItem from="1726903715423" duration="11630000" />
+      <workItem from="1726903715423" duration="12736000" />
+      <workItem from="1726984894863" duration="3983000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -194,7 +181,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724775346327</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Chuong 3">
+      <option name="closed" value="true" />
+      <created>1726928580782</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726928580782</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Chuong 3">
+      <option name="closed" value="true" />
+      <created>1726928701645</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726928701645</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,11 +205,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Bai11" />
     <MESSAGE value="Bai13" />
     <MESSAGE value="Bai12" />
     <MESSAGE value="Bai14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bai14" />
+    <MESSAGE value="Bai15-16" />
+    <MESSAGE value="Chuong 3" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.time.format.DateTimeParseException" package="java.time.format" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
